@@ -1,0 +1,22 @@
+# Dependencias
+node_modules/
+
+# Resultado del build
+dist/
+build/
+
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+
+# Tests
+coverage/
+
+# Logs
+*.log
+
+# Sistema operativo y editor
+.DS_Store
+Thumbs.db
+.idea/

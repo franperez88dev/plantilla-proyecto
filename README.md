@@ -50,6 +50,8 @@ src/
 ├── services/     llamadas a APIs
 └── main.js       punto de entrada
 ```
+## Qué he aprendido
+<!-- Explicación de lo que he aprendido gracias a este proyecto. -->
 
 ## Licencia
 
